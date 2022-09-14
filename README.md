@@ -2,9 +2,9 @@
 
 <h3 align="center">Computer Science Engineering Student at ESI Algiers, Data Science and Quantum Computing Enthusiast</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YousraFarhani&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YousraFarhani&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousraFarhani&theme=prussian"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YousraFarhani&theme=prussian"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousrafarhani" alt="yousrafarhani" /></a> </p>
 
