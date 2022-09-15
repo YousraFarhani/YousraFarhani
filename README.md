@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousra Farhani</h1>
 
-<h3 align="center">Computer Science Engineering Student at ESI Algiers, Data Science and Quantum Computing Enthusiast</h3>
 
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousrafarhani&show_icons=true&locale=en&layout=compact" alt="yousrafarhani" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousrafarhani&show_icons=true&locale=en" alt="yousrafarhani" /></p>
 
