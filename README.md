@@ -3,9 +3,10 @@
 
 ![image](https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg)
 
- <div align="center">
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
-</div>
+
 
 
 - 🔭 I’m currently working on **DS, AI and Quantum projects**
