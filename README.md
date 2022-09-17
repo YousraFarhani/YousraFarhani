@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yousra Farhani</h1>
 <h1 align="center"> Computer Science Student, AI & QC enthusiast </h1>
-![image](https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg)
-  <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
 
+![image](https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg)
+
+ <div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
 </div>
 
 
