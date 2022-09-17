@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yousra Farhani</h1>
 
+<img src="https://drive.google.com/file/d/1_lCbMBxOWOLiPhuDuEnPCnrG6yy-OOKG/view?usp=sharing"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
 
