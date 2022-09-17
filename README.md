@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yousra Farhani</h1>
 
-<img src="https://drive.google.com/file/d/1_lCbMBxOWOLiPhuDuEnPCnrG6yy-OOKG/view?usp=sharing"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<p align="center">
+<img align="center" alt="QC" width="400" src="https://drive.google.com/file/d/1_lCbMBxOWOLiPhuDuEnPCnrG6yy-OOKG/view?usp=sharing">
 
+     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
-
+</p>
 
 - 🔭 I’m currently working on **DS, AI and Quantum projects**
 
