@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousra Farhani</h1>
 
 <p align="center">
-<img align="center" alt="QC" width="400" src="https://drive.google.com/file/d/1_lCbMBxOWOLiPhuDuEnPCnrG6yy-OOKG/view?usp=sharing">
+<img align="center" alt="QC" width="400" src="https://spectrum.ieee.org/the-case-against-quantum-computing">
 
      
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
