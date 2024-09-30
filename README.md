@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousra Farhani</h1>
-<h1 align="center"> Computer Science Student, AI & QC enthusiast </h1>
+<h1 align="center"> Quantum Optimisation and Machine Learning Researcher </h1>
 
 ![image](https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg)
 
