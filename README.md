@@ -2,10 +2,6 @@
 <h3 align="center"> Quantum Optimization and Machine Learning Researcher ⚛️ </h3>
 ![](https://komarev.com/ghpvc/?username=YousraFarhani&color=blue&style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YousraFarhani&color=brightgreen&style=flat-square)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YousraFarhani&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ## 🌟 Background  
 Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion for **quantum optimization and machine learning**. My journey so far has been dedicated to pushing the boundaries of **quantum technologies** while inspiring and empowering others to join the quantum revolution. Here’s a glimpse of my path:  
 
@@ -21,7 +17,7 @@ Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion
 
   
 Feel free to connect, collaborate, or explore my projects!  
-[LinkedIn](https://www.linkedin.com/in/yousrafarhani/)   
+<a href="https://linkedin.com/in/yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousrafarhani" height="30" width="40" /></a>
 
 ---
 
@@ -38,7 +34,7 @@ My research centers on **quantum optimization, and machine learning**, and their
 - **Distributed Kernel Learning**: Award-winning project on scalable machine learning with quantum tools.
 
 Follow my research here!  
-[ResearchGate](https://www.linkedin.com/in/yousrafarhani/)   
+https://www.researchgate.net/profile/Yousra-Farhani?ev=hdr_xprf
 
 ---
 
@@ -70,7 +66,7 @@ Follow my research here!
 As the founder of **Quantum Africa**, I am committed to democratizing quantum technologies and fostering innovation across the continent. Through workshops, mentorship, and collaborations, I aim to build a vibrant community of quantum enthusiasts and researchers, empowering Africa’s contribution to the global quantum revolution.  
 
 Feel free to connect, collaborate, or explore my projects!  
-✨ [Quantum Africa Website]([https://www.linkedin.com/in/yousrafarhani/](https://quantumafrica.netlify.app/)) 
+✨ [Quantum Africa Website](https://quantumafrica.netlify.app/) 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
