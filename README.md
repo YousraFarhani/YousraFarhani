@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I'm Yousra Farhani </h2>
 <h3 align="center"> Quantum Optimization and Machine Learning Researcher ⚛️ </h3>
+![](https://komarev.com/ghpvc/?username=YousraFarhani&color=blue&style=flat-square)
+
 
 ## 🌟 Background  
 Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion for **quantum optimization and machine learning**. My journey so far has been dedicated to pushing the boundaries of **quantum technologies** while inspiring and empowering others to join the quantum revolution. Here’s a glimpse of my path:  
@@ -68,8 +70,7 @@ Feel free to connect, collaborate, or explore my projects!
 ✨ [Quantum Africa Website]([https://www.linkedin.com/in/yousrafarhani/](https://quantumafrica.netlify.app/)) 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently working on **DS, AI and Quantum projects**
@@ -88,8 +89,6 @@ Feel free to connect, collaborate, or explore my projects!
 <a href="https://www.behance.net/yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yousrafarhani" height="30" width="40" /></a>
 <a href="https://medium.com/@yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yousrafarhani" height="30" width="40" /></a>
 </p>
-
-
 <div align="center">
   <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" />
 </div>
