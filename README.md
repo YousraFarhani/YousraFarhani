@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" width="800" height="600" />
+  <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" width="800" height="500" />
 </div>
 
 ## 🌟 Background  
