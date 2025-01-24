@@ -1,10 +1,5 @@
-<h2 align="center">Hi 👋, I'm Yousra Farhani | Miss Quantum </h2>
-<h3 align="center"> Quantum Optimization and Machine Learning Researcher** | Founder of **Quantum Africa** | Passionate about leveraging **Quantum Computing for real-world impact </h3>
-
-<div align="center">
-  <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" width="500" />
-</div>
-
+<h2 align="center">Hi 👋, I'm Yousra Farhani </h2>
+<h3 align="center"> Quantum Optimization and Machine Learning Researcher | Founder of Quantum Africa** | Passionate about leveraging Quantum Computing for real-world impact </h3>
 
 ## 🌟 Background  
 Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion for **quantum optimization and machine learning**. My journey so far has been dedicated to pushing the boundaries of **quantum technologies** while inspiring and empowering others to join the quantum revolution. Here’s a glimpse of my path:  
@@ -94,6 +89,10 @@ Feel free to connect, collaborate, or explore my projects!
 <a href="https://medium.com/@yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yousrafarhani" height="30" width="40" /></a>
 </p>
 
+
+<div align="center">
+  <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" />
+</div>
 
 
 
