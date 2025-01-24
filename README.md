@@ -21,21 +21,24 @@ Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion
 
   
 Feel free to connect, collaborate, or explore my projects!  
-[LinkedIn](https://www.linkedin.com/in/yousrafarhani/) 
+[LinkedIn](https://www.linkedin.com/in/yousrafarhani/)   
 
 ---
 
 ## 📝 Research  
-My research centers on **quantum optimization, machine learning**, and their applications in solving NP-Hard problems across industries like logistics, healthcare, and sustainability.  
+My research centers on **quantum optimization, and machine learning**, and their applications in solving NP-Hard problems across industries like logistics, healthcare, and sustainability.  
 ### Current Work:  
 - **Automated QUBO Frameworks**: Benchmarking **AutoQUBO** and **Munich Quantum Toolkit Auto Optimizer** on quantum solvers like D-Wave and InfinityQ.  
 - **Quantum NLP for Arabic**: Enhancing Arabic language processing using **Quantum Natural Language Processing (QNLP)**.  
 - **Quantum Machine Learning**: Developing hybrid quantum-classical models for drug-target interaction prediction.  
 
 ### Past Projects:  
-- **Flow Shop Optimization**: Published first-author research at GECCO 2024 using quantum annealing for scheduling.  
+- **Flow Shop Optimization**: Published first-author research at GECCO 2024 (Class A Conference) using quantum annealing for scheduling.  
 - **SoilMend (COP28)**: Developed an AI-Quantum IoT solution for post-crisis soil health restoration.  
 - **Distributed Kernel Learning**: Award-winning project on scalable machine learning with quantum tools.
+
+Follow my research here!  
+[ResearchGate](https://www.linkedin.com/in/yousrafarhani/)   
 
 ---
 
@@ -59,7 +62,7 @@ My research centers on **quantum optimization, machine learning**, and their app
 - **Google Scholarship for Excellence in Research 2024**  
 - **Audience Award - NYUAD Hackathon 2022**  
 - **Top 10 - Qbraid Hackathon (Microsoft Challenge)**
-- - **Second Place - AI Hack 2022**  
+- **Winner - AI Hack 2022**  
 
 ---
 
