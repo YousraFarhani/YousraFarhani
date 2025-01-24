@@ -2,6 +2,9 @@
 <h3 align="center"> Quantum Optimization and Machine Learning Researcher ⚛️ </h3>
 ![](https://komarev.com/ghpvc/?username=YousraFarhani&color=blue&style=flat-square)
 
+![Profile Views](https://komarev.com/ghpvc/?username=YousraFarhani&color=brightgreen&style=flat-square)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YousraFarhani&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🌟 Background  
 Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion for **quantum optimization and machine learning**. My journey so far has been dedicated to pushing the boundaries of **quantum technologies** while inspiring and empowering others to join the quantum revolution. Here’s a glimpse of my path:  
