@@ -1,6 +1,20 @@
 <h2 align="center">Hi 👋, I'm Yousra Farhani </h2>
 <h3 align="center"> Quantum Optimization and Machine Learning Researcher ⚛️ </h3>
-![](https://komarev.com/ghpvc/?username=YousraFarhani&color=blue&style=flat-square)
+<div align="center">
+  <a href="https://www.linkedin.com/in/YousraFarhani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:yours.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.researchgate.net/profile/Yousra-Farhani" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" size=500 />
+</div>
 
 ## 🌟 Background  
 Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion for **quantum optimization and machine learning**. My journey so far has been dedicated to pushing the boundaries of **quantum technologies** while inspiring and empowering others to join the quantum revolution. Here’s a glimpse of my path:  
@@ -88,9 +102,7 @@ Feel free to connect, collaborate, or explore my projects!
 <a href="https://www.behance.net/yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yousrafarhani" height="30" width="40" /></a>
 <a href="https://medium.com/@yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yousrafarhani" height="30" width="40" /></a>
 </p>
-<div align="center">
-  <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" />
-</div>
+
 
 
 
