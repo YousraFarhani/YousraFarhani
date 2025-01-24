@@ -1,19 +1,19 @@
 <h2 align="center">Hi 👋, I'm Yousra Farhani </h2>
 <h3 align="center"> Quantum Optimization and Machine Learning Researcher ⚛️ </h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/YousraFarhani" target="_blank">
+  <a href="https://www.linkedin.com/in/yousra-farhani-7a416219a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:yours.email@example.com">
+  <a href="mailto:jy_farhani@esi.dz">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.researchgate.net/profile/Yousra-Farhani" target="_blank">
+  <a href="https://www.researchgate.net/profile/Yousra-Farhani?ev=hdr_xprf" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" size=500 />
+  <img src="https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg" alt="image" size=300 />
 </div>
 
 ## 🌟 Background  
