@@ -3,6 +3,71 @@
 
 ![image](https://github.com/YousraFarhani/YousraFarhani/blob/main/origin.jpg)
 
+# 👩‍💻 Yousra Farhani | Miss Quantum  
+**Quantum Optimization and Machine Learning Researcher** | Founder of **Quantum Africa** | Passionate about leveraging **Quantum Computing for real-world impact**  
+
+## 🌟 Background  
+Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion for **quantum optimization and machine learning**. My journey so far has been dedicated to pushing the boundaries of **quantum technologies** while inspiring and empowering others to join the quantum revolution. Here’s a glimpse of my path:  
+
+- **2024- present** Quantum Optimization Research intern at the National Institute of Applied Sciences of Lyon, INSA Lyon
+- **2024** Double Degree in **Computer Science Engineering** (ESI Algiers) and Master’s
+- **2023/2024** Quantum Machine Learning Research intern at QWorld. 
+- **2023 - 2024** Quantum Optimization Research intern at University of Technology Troyes. 
+- **2024** Recipient of the **Quantum Rising Star Award for Women in Quantum**.
+- **2024** Recipient of the **Arab Young Pionneers Award in Quantum**.  
+- **2024 – Present** Founder of **Quantum Africa**, the continent's largest network for quantum researchers.  
+- **2022** Winner of the **NYUAD Hackathon Audience Award**  
+- **2019–2024** Numerous hackathon victories and awards, including **AI Hack** and **MIT Quantum Hackathon**.
+
+  
+Feel free to connect, collaborate, or explore my projects!  
+[LinkedIn](https://www.linkedin.com/in/yousrafarhani/) 
+
+---
+
+## 📝 Research  
+My research centers on **quantum optimization, machine learning**, and their applications in solving NP-Hard problems across industries like logistics, healthcare, and sustainability.  
+### Current Work:  
+- **Automated QUBO Frameworks**: Benchmarking **AutoQUBO** and **Munich Quantum Toolkit Auto Optimizer** on quantum solvers like D-Wave and InfinityQ.  
+- **Quantum NLP for Arabic**: Enhancing Arabic language processing using **Quantum Natural Language Processing (QNLP)**.  
+- **Quantum Machine Learning**: Developing hybrid quantum-classical models for drug-target interaction prediction.  
+
+### Past Projects:  
+- **Flow Shop Optimization**: Published first-author research at GECCO 2024 using quantum annealing for scheduling.  
+- **SoilMend (COP28)**: Developed an AI-Quantum IoT solution for post-crisis soil health restoration.  
+- **Distributed Kernel Learning**: Award-winning project on scalable machine learning with quantum tools.
+
+---
+
+## 👩‍💻 Code & Tools  
+**Top Languages**: Python, C, C++, Java, C#.  
+
+### Tools and Frameworks:  
+- **Quantum Computing**: Qiskit, PennyLane, Cirq.  
+- **Optimization**: AutoQUBO, Munich Quantum Toolkit, D-Wave Leap, InfinityQ.  
+
+**Open Source Contributions**:  
+- **Quantum Africa Workshops**: Democratizing quantum education in underrepresented regions.  
+- **Qiskit Fall Fest Organiser**: Contributions to open-source quantum programming libraries.  
+- **Quantum Universal Education**: Developing accessible learning materials for quantum computing.  
+
+---
+
+## 🏆 Achievements  
+- **Quantum Rising Star Award 2024**  
+- **Arab Young Pioneers Award in Quantum Computing 2024**  
+- **Google Scholarship for Excellence in Research 2024**  
+- **Audience Award - NYUAD Hackathon 2022**  
+- **Top 10 - Qbraid Hackathon (Microsoft Challenge)**
+- - **Second Place - AI Hack 2022**  
+
+---
+
+## 🌍 Impact  
+As the founder of **Quantum Africa**, I am committed to democratizing quantum technologies and fostering innovation across the continent. Through workshops, mentorship, and collaborations, I aim to build a vibrant community of quantum enthusiasts and researchers, empowering Africa’s contribution to the global quantum revolution.  
+
+Feel free to connect, collaborate, or explore my projects!  
+✨ [Quantum Africa Website]([https://www.linkedin.com/in/yousrafarhani/](https://quantumafrica.netlify.app/)) 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YousraFarhani&theme=radical)](https://git.io/streak-stats)
@@ -11,21 +76,10 @@
 
 - 🔭 I’m currently working on **DS, AI and Quantum projects**
 
-- 🌱 I’m currently **a Product Designer & UX Design Instructor**
-
-- 👯 I’m looking to collaborate on **Quantum Machine Learning projects**
-
-- 🤝 I’m looking for help with **Implementing AI models**
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/](https://www.behance.net/)
+-  I’m looking to collaborate on **Quantum Machine Learning projects**
 
 - 📝 I regularly write articles on [https://medium.com/@jy_farhani](https://medium.com/@jy_farhani)
 
-- 💬 I work on solving life problems using **Technology**
-
-- 📫 How to reach me **jy_farhani@esi.dz**
-
-- ⚡ Fun fact **I hate when designers abuse in using Shadows!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +91,7 @@
 <a href="https://medium.com/@yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yousrafarhani" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
 
 
 
