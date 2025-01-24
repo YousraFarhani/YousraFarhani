@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Yousra Farhani </h2>
-<h3 align="center"> Quantum Optimization and Machine Learning Researcher ⚛️ </h3>
+<h3 align="center"> Quantum Optimization and Machine Learning Researcher </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/yousra-farhani-7a416219a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
