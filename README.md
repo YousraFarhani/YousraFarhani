@@ -65,7 +65,7 @@ Follow my research on Research Gate!
 ---
 
 ## 🏆 Achievements  
-- **Quantum Rising Star Award 2024**  
+- **Quantum Rising Star Award 2024 for Women in Quantum **  
 - **Arab Young Pioneers Award in Quantum Computing 2024**  
 - **Google Scholarship for Excellence in Research 2024**  
 - **Audience Award - NYUAD Hackathon 2022**  
