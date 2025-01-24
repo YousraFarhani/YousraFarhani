@@ -20,18 +20,17 @@
 Hello! I’m Yousra, a quantum computing aspiring researcher with a deep passion for **quantum optimization and machine learning**. My journey so far has been dedicated to pushing the boundaries of **quantum technologies** while inspiring and empowering others to join the quantum revolution. Here’s a glimpse of my path:  
 
 - **2024- present** Quantum Optimization Research intern at the National Institute of Applied Sciences of Lyon, INSA Lyon
-- **2024** Double Degree in **Computer Science Engineering** (ESI Algiers) and Master’s
+- **2024** Double Degree in **Computer Science Engineering** and Master’s from École Nationale Supérieure d'Informatique (ESI Algiers)
 - **2023/2024** Quantum Machine Learning Research intern at QWorld. 
-- **2023 - 2024** Quantum Optimization Research intern at University of Technology Troyes. 
+- **2023 - 2024** Quantum Optimization Research intern at the University of Technology Troyes, France.
 - **2024** Recipient of the **Quantum Rising Star Award for Women in Quantum**.
 - **2024** Recipient of the **Arab Young Pionneers Award in Quantum**.  
 - **2024 – Present** Founder of **Quantum Africa**, the continent's largest network for quantum researchers.  
 - **2022** Winner of the **NYUAD Hackathon Audience Award**  
 - **2019–2024** Numerous hackathon victories and awards, including **AI Hack** and **MIT Quantum Hackathon**.
 
-  
 Feel free to connect, collaborate, or explore my projects!  
-<a href="https://linkedin.com/in/yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousrafarhani" height="30" width="40" /></a>
+
 
 ---
 
@@ -47,8 +46,7 @@ My research centers on **quantum optimization, and machine learning**, and their
 - **SoilMend (COP28)**: Developed an AI-Quantum IoT solution for post-crisis soil health restoration.  
 - **Distributed Kernel Learning**: Award-winning project on scalable machine learning with quantum tools.
 
-Follow my research here!  
-https://www.researchgate.net/profile/Yousra-Farhani?ev=hdr_xprf
+Follow my research on Research Gate!  
 
 ---
 
@@ -92,16 +90,6 @@ Feel free to connect, collaborate, or explore my projects!
 
 - 📝 I regularly write articles on [https://medium.com/@jy_farhani](https://medium.com/@jy_farhani)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/farhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousrafarhani" height="30" width="40" /></a>
-<a href="https://fb.com/yousra farhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousra farhani" height="30" width="40" /></a>
-<a href="https://instagram.com/yousra_fer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousra_fer1" height="30" width="40" /></a>
-<a href="https://www.behance.net/yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yousrafarhani" height="30" width="40" /></a>
-<a href="https://medium.com/@yousrafarhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yousrafarhani" height="30" width="40" /></a>
-</p>
 
 
 
